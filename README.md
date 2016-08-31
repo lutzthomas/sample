@@ -1,2 +1,2 @@
 # sample
-Testing... one.... two... three... testing...
+first day of class working with git hub and branches 
